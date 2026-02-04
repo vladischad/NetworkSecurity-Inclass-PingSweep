@@ -1,0 +1,577 @@
+PING onyxnode10.boisestate.edu (10.29.3.159) 56(84) bytes of data.
+64 bytes from onyxnode10.boisestate.edu (10.29.3.159): icmp_seq=1 ttl=63 time=0.602 ms
+
+--- onyxnode10.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.602/0.602/0.602/0.000 ms
+PING onyxnode11.boisestate.edu (10.29.2.189) 56(84) bytes of data.
+64 bytes from onyxnode11.boisestate.edu (10.29.2.189): icmp_seq=1 ttl=63 time=0.476 ms
+
+--- onyxnode11.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.476/0.476/0.476/0.000 ms
+PING onyxnode12.boisestate.edu (10.29.3.155) 56(84) bytes of data.
+64 bytes from onyxnode12.boisestate.edu (10.29.3.155): icmp_seq=1 ttl=63 time=0.414 ms
+
+--- onyxnode12.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.414/0.414/0.414/0.000 ms
+PING onyxnode13.boisestate.edu (10.29.2.135) 56(84) bytes of data.
+64 bytes from onyxnode13.boisestate.edu (10.29.2.135): icmp_seq=1 ttl=63 time=0.718 ms
+
+--- onyxnode13.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.718/0.718/0.718/0.000 ms
+PING onyxnode14.boisestate.edu (10.29.3.73) 56(84) bytes of data.
+64 bytes from onyxnode14.boisestate.edu (10.29.3.73): icmp_seq=1 ttl=63 time=0.724 ms
+
+--- onyxnode14.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.724/0.724/0.724/0.000 ms
+PING onyxnode15.boisestate.edu (10.29.3.133) 56(84) bytes of data.
+64 bytes from onyxnode15.boisestate.edu (10.29.3.133): icmp_seq=1 ttl=63 time=0.800 ms
+
+--- onyxnode15.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.800/0.800/0.800/0.000 ms
+PING onyxnode16.boisestate.edu (10.29.10.140) 56(84) bytes of data.
+64 bytes from onyxnode16.boisestate.edu (10.29.10.140): icmp_seq=1 ttl=63 time=0.762 ms
+
+--- onyxnode16.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.762/0.762/0.762/0.000 ms
+PING onyxnode17.boisestate.edu (10.29.2.112) 56(84) bytes of data.
+
+--- onyxnode17.boisestate.edu ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING onyxnode18.boisestate.edu (10.29.3.132) 56(84) bytes of data.
+64 bytes from onyxnode18.boisestate.edu (10.29.3.132): icmp_seq=1 ttl=63 time=0.849 ms
+
+--- onyxnode18.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.849/0.849/0.849/0.000 ms
+PING onyxnode19.boisestate.edu (10.29.3.126) 56(84) bytes of data.
+64 bytes from onyxnode19.boisestate.edu (10.29.3.126): icmp_seq=1 ttl=63 time=0.712 ms
+
+--- onyxnode19.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.712/0.712/0.712/0.000 ms
+PING onyxnode20.boisestate.edu (10.29.3.117) 56(84) bytes of data.
+64 bytes from onyxnode20.boisestate.edu (10.29.3.117): icmp_seq=1 ttl=63 time=0.774 ms
+
+--- onyxnode20.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.774/0.774/0.774/0.000 ms
+PING onyxnode21.boisestate.edu (10.29.3.95) 56(84) bytes of data.
+64 bytes from onyxnode21.boisestate.edu (10.29.3.95): icmp_seq=1 ttl=63 time=0.866 ms
+
+--- onyxnode21.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.866/0.866/0.866/0.000 ms
+PING onyxnode22.boisestate.edu (10.29.2.93) 56(84) bytes of data.
+64 bytes from onyxnode22.boisestate.edu (10.29.2.93): icmp_seq=1 ttl=63 time=0.367 ms
+
+--- onyxnode22.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.367/0.367/0.367/0.000 ms
+PING onyxnode23.boisestate.edu (10.29.3.56) 56(84) bytes of data.
+
+--- onyxnode23.boisestate.edu ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING onyxnode26.boisestate.edu (10.29.2.149) 56(84) bytes of data.
+64 bytes from onyxnode26.boisestate.edu (10.29.2.149): icmp_seq=1 ttl=63 time=0.730 ms
+
+--- onyxnode26.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.730/0.730/0.730/0.000 ms
+PING onyxnode27.boisestate.edu (10.29.2.76) 56(84) bytes of data.
+64 bytes from onyxnode27.boisestate.edu (10.29.2.76): icmp_seq=1 ttl=63 time=0.727 ms
+
+--- onyxnode27.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.727/0.727/0.727/0.000 ms
+PING onyxnode28.boisestate.edu (10.29.2.161) 56(84) bytes of data.
+64 bytes from onyxnode28.boisestate.edu (10.29.2.161): icmp_seq=1 ttl=63 time=0.788 ms
+
+--- onyxnode28.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.788/0.788/0.788/0.000 ms
+PING onyxnode29.boisestate.edu (10.29.2.143) 56(84) bytes of data.
+64 bytes from onyxnode29.boisestate.edu (10.29.2.143): icmp_seq=1 ttl=63 time=0.783 ms
+
+--- onyxnode29.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.783/0.783/0.783/0.000 ms
+PING onyxnode30.boisestate.edu (10.29.3.74) 56(84) bytes of data.
+64 bytes from onyxnode30.boisestate.edu (10.29.3.74): icmp_seq=1 ttl=63 time=0.718 ms
+
+--- onyxnode30.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.718/0.718/0.718/0.000 ms
+PING onyxnode31.boisestate.edu (10.29.2.80) 56(84) bytes of data.
+64 bytes from onyxnode31.boisestate.edu (10.29.2.80): icmp_seq=1 ttl=63 time=0.636 ms
+
+--- onyxnode31.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.636/0.636/0.636/0.000 ms
+PING onyxnode32.boisestate.edu (10.29.3.84) 56(84) bytes of data.
+64 bytes from onyxnode32.boisestate.edu (10.29.3.84): icmp_seq=1 ttl=63 time=0.427 ms
+
+--- onyxnode32.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.427/0.427/0.427/0.000 ms
+PING onyxnode33.boisestate.edu (10.29.3.85) 56(84) bytes of data.
+64 bytes from onyxnode33.boisestate.edu (10.29.3.85): icmp_seq=1 ttl=63 time=0.650 ms
+
+--- onyxnode33.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.650/0.650/0.650/0.000 ms
+PING onyxnode34.boisestate.edu (10.29.3.129) 56(84) bytes of data.
+64 bytes from onyxnode34.boisestate.edu (10.29.3.129): icmp_seq=1 ttl=63 time=0.320 ms
+
+--- onyxnode34.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.320/0.320/0.320/0.000 ms
+PING onyxnode35.boisestate.edu (10.29.2.115) 56(84) bytes of data.
+64 bytes from onyxnode35.boisestate.edu (10.29.2.115): icmp_seq=1 ttl=63 time=0.784 ms
+
+--- onyxnode35.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.784/0.784/0.784/0.000 ms
+PING onyxnode36.boisestate.edu (10.29.2.118) 56(84) bytes of data.
+
+--- onyxnode36.boisestate.edu ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING onyxnode37.boisestate.edu (10.29.3.143) 56(84) bytes of data.
+64 bytes from onyxnode37.boisestate.edu (10.29.3.143): icmp_seq=1 ttl=63 time=0.846 ms
+
+--- onyxnode37.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.846/0.846/0.846/0.000 ms
+PING onyxnode38.boisestate.edu (10.29.3.145) 56(84) bytes of data.
+64 bytes from onyxnode38.boisestate.edu (10.29.3.145): icmp_seq=1 ttl=63 time=0.491 ms
+
+--- onyxnode38.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.491/0.491/0.491/0.000 ms
+PING onyxnode39.boisestate.edu (10.29.3.40) 56(84) bytes of data.
+64 bytes from onyxnode39.boisestate.edu (10.29.3.40): icmp_seq=1 ttl=63 time=0.799 ms
+
+--- onyxnode39.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.799/0.799/0.799/0.000 ms
+PING onyxnode40.boisestate.edu (10.29.2.173) 56(84) bytes of data.
+64 bytes from onyxnode40.boisestate.edu (10.29.2.173): icmp_seq=1 ttl=63 time=0.674 ms
+
+--- onyxnode40.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.674/0.674/0.674/0.000 ms
+PING onyxnode41.boisestate.edu (10.29.2.171) 56(84) bytes of data.
+
+--- onyxnode41.boisestate.edu ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING onyxnode46.boisestate.edu (10.29.3.96) 56(84) bytes of data.
+64 bytes from onyxnode46.boisestate.edu (10.29.3.96): icmp_seq=1 ttl=63 time=0.842 ms
+
+--- onyxnode46.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.842/0.842/0.842/0.000 ms
+PING onyxnode47.boisestate.edu (10.29.2.94) 56(84) bytes of data.
+64 bytes from onyxnode47.boisestate.edu (10.29.2.94): icmp_seq=1 ttl=63 time=0.597 ms
+
+--- onyxnode47.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.597/0.597/0.597/0.000 ms
+PING onyxnode49.boisestate.edu (10.29.2.152) 56(84) bytes of data.
+64 bytes from onyxnode49.boisestate.edu (10.29.2.152): icmp_seq=1 ttl=63 time=0.756 ms
+
+--- onyxnode49.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.756/0.756/0.756/0.000 ms
+PING onyxnode50.boisestate.edu (10.29.3.127) 56(84) bytes of data.
+64 bytes from onyxnode50.boisestate.edu (10.29.3.127): icmp_seq=1 ttl=63 time=0.859 ms
+
+--- onyxnode50.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.859/0.859/0.859/0.000 ms
+PING onyxnode51.boisestate.edu (10.29.2.151) 56(84) bytes of data.
+64 bytes from onyxnode51.boisestate.edu (10.29.2.151): icmp_seq=1 ttl=63 time=0.568 ms
+
+--- onyxnode51.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.568/0.568/0.568/0.000 ms
+PING onyxnode52.boisestate.edu (10.29.3.123) 56(84) bytes of data.
+64 bytes from onyxnode52.boisestate.edu (10.29.3.123): icmp_seq=1 ttl=63 time=0.784 ms
+
+--- onyxnode52.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.784/0.784/0.784/0.000 ms
+PING onyxnode53.boisestate.edu (10.29.2.90) 56(84) bytes of data.
+64 bytes from onyxnode53.boisestate.edu (10.29.2.90): icmp_seq=1 ttl=63 time=0.751 ms
+
+--- onyxnode53.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.751/0.751/0.751/0.000 ms
+PING onyxnode54.boisestate.edu (10.29.2.101) 56(84) bytes of data.
+64 bytes from onyxnode54.boisestate.edu (10.29.2.101): icmp_seq=1 ttl=63 time=0.773 ms
+
+--- onyxnode54.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.773/0.773/0.773/0.000 ms
+PING onyxnode55.boisestate.edu (10.29.2.163) 56(84) bytes of data.
+64 bytes from onyxnode55.boisestate.edu (10.29.2.163): icmp_seq=1 ttl=63 time=0.822 ms
+
+--- onyxnode55.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.822/0.822/0.822/0.000 ms
+PING onyxnode58.boisestate.edu (10.29.3.120) 56(84) bytes of data.
+64 bytes from onyxnode58.boisestate.edu (10.29.3.120): icmp_seq=1 ttl=63 time=0.698 ms
+
+--- onyxnode58.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.698/0.698/0.698/0.000 ms
+PING onyxnode60.boisestate.edu (10.29.2.120) 56(84) bytes of data.
+64 bytes from onyxnode60.boisestate.edu (10.29.2.120): icmp_seq=1 ttl=63 time=0.828 ms
+
+--- onyxnode60.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.828/0.828/0.828/0.000 ms
+PING onyxnode61.boisestate.edu (10.29.2.168) 56(84) bytes of data.
+64 bytes from onyxnode61.boisestate.edu (10.29.2.168): icmp_seq=1 ttl=63 time=0.829 ms
+
+--- onyxnode61.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.829/0.829/0.829/0.000 ms
+PING onyxnode62.boisestate.edu (10.29.3.39) 56(84) bytes of data.
+64 bytes from onyxnode62.boisestate.edu (10.29.3.39): icmp_seq=1 ttl=63 time=0.750 ms
+
+--- onyxnode62.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.750/0.750/0.750/0.000 ms
+PING onyxnode63.boisestate.edu (10.29.2.134) 56(84) bytes of data.
+64 bytes from onyxnode63.boisestate.edu (10.29.2.134): icmp_seq=1 ttl=63 time=0.803 ms
+
+--- onyxnode63.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.803/0.803/0.803/0.000 ms
+PING onyxnode64.boisestate.edu (10.29.2.140) 56(84) bytes of data.
+64 bytes from onyxnode64.boisestate.edu (10.29.2.140): icmp_seq=1 ttl=63 time=0.794 ms
+
+--- onyxnode64.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.794/0.794/0.794/0.000 ms
+PING onyxnode65.boisestate.edu (10.29.3.152) 56(84) bytes of data.
+64 bytes from onyxnode65.boisestate.edu (10.29.3.152): icmp_seq=1 ttl=63 time=0.742 ms
+
+--- onyxnode65.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.742/0.742/0.742/0.000 ms
+PING onyxnode66.boisestate.edu (10.29.2.175) 56(84) bytes of data.
+64 bytes from onyxnode66.boisestate.edu (10.29.2.175): icmp_seq=1 ttl=63 time=0.780 ms
+
+--- onyxnode66.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.780/0.780/0.780/0.000 ms
+PING onyxnode67.boisestate.edu (10.29.2.155) 56(84) bytes of data.
+64 bytes from onyxnode67.boisestate.edu (10.29.2.155): icmp_seq=1 ttl=63 time=0.751 ms
+
+--- onyxnode67.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.751/0.751/0.751/0.000 ms
+PING onyxnode68.boisestate.edu (10.29.2.105) 56(84) bytes of data.
+64 bytes from onyxnode68.boisestate.edu (10.29.2.105): icmp_seq=1 ttl=63 time=0.367 ms
+
+--- onyxnode68.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.367/0.367/0.367/0.000 ms
+PING onyxnode69.boisestate.edu (10.29.2.162) 56(84) bytes of data.
+64 bytes from onyxnode69.boisestate.edu (10.29.2.162): icmp_seq=1 ttl=63 time=0.740 ms
+
+--- onyxnode69.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.740/0.740/0.740/0.000 ms
+PING onyxnode70.boisestate.edu (10.29.3.71) 56(84) bytes of data.
+64 bytes from onyxnode70.boisestate.edu (10.29.3.71): icmp_seq=1 ttl=63 time=0.509 ms
+
+--- onyxnode70.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.509/0.509/0.509/0.000 ms
+PING onyxnode71.boisestate.edu (10.29.3.100) 56(84) bytes of data.
+64 bytes from onyxnode71.boisestate.edu (10.29.3.100): icmp_seq=1 ttl=63 time=0.789 ms
+
+--- onyxnode71.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.789/0.789/0.789/0.000 ms
+PING onyxnode72.boisestate.edu (10.29.3.94) 56(84) bytes of data.
+64 bytes from onyxnode72.boisestate.edu (10.29.3.94): icmp_seq=1 ttl=63 time=0.842 ms
+
+--- onyxnode72.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.842/0.842/0.842/0.000 ms
+PING onyxnode73.boisestate.edu (10.29.3.157) 56(84) bytes of data.
+64 bytes from onyxnode73.boisestate.edu (10.29.3.157): icmp_seq=1 ttl=63 time=0.852 ms
+
+--- onyxnode73.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.852/0.852/0.852/0.000 ms
+PING onyxnode74.boisestate.edu (10.29.3.104) 56(84) bytes of data.
+64 bytes from onyxnode74.boisestate.edu (10.29.3.104): icmp_seq=1 ttl=63 time=0.808 ms
+
+--- onyxnode74.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.808/0.808/0.808/0.000 ms
+PING onyxnode75.boisestate.edu (10.29.3.122) 56(84) bytes of data.
+64 bytes from onyxnode75.boisestate.edu (10.29.3.122): icmp_seq=1 ttl=63 time=0.845 ms
+
+--- onyxnode75.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.845/0.845/0.845/0.000 ms
+PING onyxnode76.boisestate.edu (10.29.2.153) 56(84) bytes of data.
+
+--- onyxnode76.boisestate.edu ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING onyxnode77.boisestate.edu (10.29.3.109) 56(84) bytes of data.
+64 bytes from onyxnode77.boisestate.edu (10.29.3.109): icmp_seq=1 ttl=63 time=0.788 ms
+
+--- onyxnode77.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.788/0.788/0.788/0.000 ms
+PING onyxnode78.boisestate.edu (10.29.3.91) 56(84) bytes of data.
+64 bytes from onyxnode78.boisestate.edu (10.29.3.91): icmp_seq=1 ttl=63 time=0.735 ms
+
+--- onyxnode78.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.735/0.735/0.735/0.000 ms
+PING onyxnode79.boisestate.edu (10.29.3.153) 56(84) bytes of data.
+64 bytes from onyxnode79.boisestate.edu (10.29.3.153): icmp_seq=1 ttl=63 time=0.685 ms
+
+--- onyxnode79.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.685/0.685/0.685/0.000 ms
+PING onyxnode81.boisestate.edu (10.29.2.144) 56(84) bytes of data.
+64 bytes from onyxnode81.boisestate.edu (10.29.2.144): icmp_seq=1 ttl=63 time=0.807 ms
+
+--- onyxnode81.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.807/0.807/0.807/0.000 ms
+PING onyxnode82.boisestate.edu (10.29.2.116) 56(84) bytes of data.
+64 bytes from onyxnode82.boisestate.edu (10.29.2.116): icmp_seq=1 ttl=63 time=0.776 ms
+
+--- onyxnode82.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.776/0.776/0.776/0.000 ms
+PING onyxnode83.boisestate.edu (10.29.2.190) 56(84) bytes of data.
+64 bytes from onyxnode83.boisestate.edu (10.29.2.190): icmp_seq=1 ttl=63 time=0.791 ms
+
+--- onyxnode83.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.791/0.791/0.791/0.000 ms
+PING onyxnode84.boisestate.edu (10.29.3.99) 56(84) bytes of data.
+64 bytes from onyxnode84.boisestate.edu (10.29.3.99): icmp_seq=1 ttl=63 time=0.540 ms
+
+--- onyxnode84.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.540/0.540/0.540/0.000 ms
+PING onyxnode85.boisestate.edu (10.29.2.164) 56(84) bytes of data.
+64 bytes from onyxnode85.boisestate.edu (10.29.2.164): icmp_seq=1 ttl=63 time=0.763 ms
+
+--- onyxnode85.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.763/0.763/0.763/0.000 ms
+PING onyxnode86.boisestate.edu (10.29.3.79) 56(84) bytes of data.
+64 bytes from onyxnode86.boisestate.edu (10.29.3.79): icmp_seq=1 ttl=63 time=0.733 ms
+
+--- onyxnode86.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.733/0.733/0.733/0.000 ms
+PING onyxnode87.boisestate.edu (10.29.2.159) 56(84) bytes of data.
+64 bytes from onyxnode87.boisestate.edu (10.29.2.159): icmp_seq=1 ttl=63 time=0.667 ms
+
+--- onyxnode87.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.667/0.667/0.667/0.000 ms
+PING onyxnode88.boisestate.edu (10.29.3.146) 56(84) bytes of data.
+64 bytes from onyxnode88.boisestate.edu (10.29.3.146): icmp_seq=1 ttl=63 time=0.706 ms
+
+--- onyxnode88.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.706/0.706/0.706/0.000 ms
+PING onyxnode89.boisestate.edu (10.29.2.142) 56(84) bytes of data.
+64 bytes from onyxnode89.boisestate.edu (10.29.2.142): icmp_seq=1 ttl=63 time=0.729 ms
+
+--- onyxnode89.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.729/0.729/0.729/0.000 ms
+PING onyxnode90.boisestate.edu (10.29.3.144) 56(84) bytes of data.
+64 bytes from onyxnode90.boisestate.edu (10.29.3.144): icmp_seq=1 ttl=63 time=0.788 ms
+
+--- onyxnode90.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.788/0.788/0.788/0.000 ms
+PING onyxnode91.boisestate.edu (10.29.3.101) 56(84) bytes of data.
+64 bytes from onyxnode91.boisestate.edu (10.29.3.101): icmp_seq=1 ttl=63 time=0.732 ms
+
+--- onyxnode91.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.732/0.732/0.732/0.000 ms
+PING onyxnode92.boisestate.edu (10.29.2.100) 56(84) bytes of data.
+64 bytes from onyxnode92.boisestate.edu (10.29.2.100): icmp_seq=1 ttl=63 time=0.768 ms
+
+--- onyxnode92.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.768/0.768/0.768/0.000 ms
+PING onyxnode93.boisestate.edu (10.29.3.29) 56(84) bytes of data.
+64 bytes from onyxnode93.boisestate.edu (10.29.3.29): icmp_seq=1 ttl=63 time=0.679 ms
+
+--- onyxnode93.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.679/0.679/0.679/0.000 ms
+PING onyxnode94.boisestate.edu (10.29.2.129) 56(84) bytes of data.
+64 bytes from onyxnode94.boisestate.edu (10.29.2.129): icmp_seq=1 ttl=63 time=0.702 ms
+
+--- onyxnode94.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.702/0.702/0.702/0.000 ms
+PING onyxnode95.boisestate.edu (10.29.2.158) 56(84) bytes of data.
+64 bytes from onyxnode95.boisestate.edu (10.29.2.158): icmp_seq=1 ttl=63 time=0.641 ms
+
+--- onyxnode95.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.641/0.641/0.641/0.000 ms
+PING onyxnode96.boisestate.edu (10.29.3.98) 56(84) bytes of data.
+64 bytes from onyxnode96.boisestate.edu (10.29.3.98): icmp_seq=1 ttl=63 time=0.759 ms
+
+--- onyxnode96.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.759/0.759/0.759/0.000 ms
+PING onyxnode97.boisestate.edu (10.29.2.156) 56(84) bytes of data.
+64 bytes from onyxnode97.boisestate.edu (10.29.2.156): icmp_seq=1 ttl=63 time=0.751 ms
+
+--- onyxnode97.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.751/0.751/0.751/0.000 ms
+PING onyxnode98.boisestate.edu (10.29.3.90) 56(84) bytes of data.
+64 bytes from onyxnode98.boisestate.edu (10.29.3.90): icmp_seq=1 ttl=63 time=0.691 ms
+
+--- onyxnode98.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.691/0.691/0.691/0.000 ms
+PING onyxnode99.boisestate.edu (10.29.2.154) 56(84) bytes of data.
+64 bytes from onyxnode99.boisestate.edu (10.29.2.154): icmp_seq=1 ttl=63 time=0.766 ms
+
+--- onyxnode99.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.766/0.766/0.766/0.000 ms
+PING onyxnode100.boisestate.edu (10.29.2.146) 56(84) bytes of data.
+64 bytes from onyxnode100.boisestate.edu (10.29.2.146): icmp_seq=1 ttl=63 time=0.693 ms
+
+--- onyxnode100.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.693/0.693/0.693/0.000 ms
+PING onyxnode101.boisestate.edu (10.29.10.149) 56(84) bytes of data.
+64 bytes from onyxnode101.boisestate.edu (10.29.10.149): icmp_seq=1 ttl=63 time=0.838 ms
+
+--- onyxnode101.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.838/0.838/0.838/0.000 ms
+PING onyxnode102.boisestate.edu (10.29.10.150) 56(84) bytes of data.
+64 bytes from onyxnode102.boisestate.edu (10.29.10.150): icmp_seq=1 ttl=63 time=0.867 ms
+
+--- onyxnode102.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.867/0.867/0.867/0.000 ms
+PING onyxnode103.boisestate.edu (10.29.2.137) 56(84) bytes of data.
+64 bytes from onyxnode103.boisestate.edu (10.29.2.137): icmp_seq=1 ttl=63 time=0.770 ms
+
+--- onyxnode103.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.770/0.770/0.770/0.000 ms
+PING onyxnode104.boisestate.edu (10.29.2.98) 56(84) bytes of data.
+64 bytes from onyxnode104.boisestate.edu (10.29.2.98): icmp_seq=1 ttl=63 time=0.515 ms
+
+--- onyxnode104.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.515/0.515/0.515/0.000 ms
+PING onyxnode105.boisestate.edu (10.29.2.136) 56(84) bytes of data.
+64 bytes from onyxnode105.boisestate.edu (10.29.2.136): icmp_seq=1 ttl=63 time=0.669 ms
+
+--- onyxnode105.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.669/0.669/0.669/0.000 ms
+PING onyxnode106.boisestate.edu (10.29.2.132) 56(84) bytes of data.
+64 bytes from onyxnode106.boisestate.edu (10.29.2.132): icmp_seq=1 ttl=63 time=0.781 ms
+
+--- onyxnode106.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.781/0.781/0.781/0.000 ms
+PING onyxnode107.boisestate.edu (10.29.3.140) 56(84) bytes of data.
+64 bytes from onyxnode107.boisestate.edu (10.29.3.140): icmp_seq=1 ttl=63 time=0.724 ms
+
+--- onyxnode107.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.724/0.724/0.724/0.000 ms
+PING onyxnode108.boisestate.edu (10.29.3.158) 56(84) bytes of data.
+64 bytes from onyxnode108.boisestate.edu (10.29.3.158): icmp_seq=1 ttl=63 time=0.732 ms
+
+--- onyxnode108.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.732/0.732/0.732/0.000 ms
+PING onyxnode109.boisestate.edu (10.29.3.52) 56(84) bytes of data.
+64 bytes from onyxnode109.boisestate.edu (10.29.3.52): icmp_seq=1 ttl=63 time=0.776 ms
+
+--- onyxnode109.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.776/0.776/0.776/0.000 ms
+PING onyxnode110.boisestate.edu (10.29.3.35) 56(84) bytes of data.
+64 bytes from onyxnode110.boisestate.edu (10.29.3.35): icmp_seq=1 ttl=63 time=0.304 ms
+
+--- onyxnode110.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.304/0.304/0.304/0.000 ms
+PING onyxnode111.boisestate.edu (10.29.2.177) 56(84) bytes of data.
+64 bytes from onyxnode111.boisestate.edu (10.29.2.177): icmp_seq=1 ttl=63 time=0.712 ms
+
+--- onyxnode111.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.712/0.712/0.712/0.000 ms
+PING onyxnode112.boisestate.edu (10.29.2.97) 56(84) bytes of data.
+64 bytes from onyxnode112.boisestate.edu (10.29.2.97): icmp_seq=1 ttl=63 time=0.668 ms
+
+--- onyxnode112.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.668/0.668/0.668/0.000 ms
+PING onyxnode113.boisestate.edu (10.29.2.145) 56(84) bytes of data.
+64 bytes from onyxnode113.boisestate.edu (10.29.2.145): icmp_seq=1 ttl=63 time=0.758 ms
+
+--- onyxnode113.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.758/0.758/0.758/0.000 ms
+PING onyxnode114.boisestate.edu (10.29.3.62) 56(84) bytes of data.
+64 bytes from onyxnode114.boisestate.edu (10.29.3.62): icmp_seq=1 ttl=63 time=0.988 ms
+
+--- onyxnode114.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.988/0.988/0.988/0.000 ms
+PING onyxnode115.boisestate.edu (10.29.2.88) 56(84) bytes of data.
+64 bytes from onyxnode115.boisestate.edu (10.29.2.88): icmp_seq=1 ttl=63 time=0.866 ms
+
+--- onyxnode115.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.866/0.866/0.866/0.000 ms
+PING onyxnode116.boisestate.edu (10.29.3.66) 56(84) bytes of data.
+64 bytes from onyxnode116.boisestate.edu (10.29.3.66): icmp_seq=1 ttl=63 time=0.761 ms
+
+--- onyxnode116.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.761/0.761/0.761/0.000 ms
+PING onyxnode117.boisestate.edu (10.29.2.108) 56(84) bytes of data.
+64 bytes from onyxnode117.boisestate.edu (10.29.2.108): icmp_seq=1 ttl=63 time=0.985 ms
+
+--- onyxnode117.boisestate.edu ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.985/0.985/0.985/0.000 ms

@@ -1,49 +1,63 @@
 #!/bin/bash
+# Ping sweep the Lab
 
-
-# Prints usage information
-function usage() {
-	echo "Usage: $0"
-	exit 1
-}
-
-# Pingsweep command for the Onyx nodes
-function pingsweep_cmd() {
+cmd_ping() {
+	#local limits the scope for a variable to just that function
+	local logfile=ping.log
 	local base="onyxnode"
 	local found=0
 	local total=0
-	echo "Pinging nodes... TBD"
-	for i in {1..10}; do
-		local node="${base}${i}"
-		ping -c 1 -W 1 "${node}" &> /dev/null
+
+	> ${logfile}
+
+	echo "Pinging Nodes..."
+
+	for q in {1..200}
+	do
+        	curr="$base$q"
+        	#ping -c 1 $curr &> /dev/null
+		ping -c 1 $curr >> ${logfile}
+
 		if [ $? -eq 0 ]; then
-			echo "Node ${node} is reachable."
+			#ping -c 1 $curr >> ${logfile}
+			echo "Node ${curr} is reachable"
 			found=$((found + 1))
 		else
-			echo "Node ${node} is not reachable."
+			echo "Node ${curr} is not reachable"
 		fi
 		total=$((total + 1))
-	done
+	done	
 
+	local notFound=$((total - found))
+	echo "Scanned ${total} nodes"
+	echo "Found ${found} active machines"
+	echo "No response from ${notFound} machines"
+	echo "See ping.log for details"
 }
 
-function main() {
-	while getopts ":hp" opt; do
-		case ${opt} in
-		h) usage ;;
-		p) pingsweep_cmd ;;
-		\?)
-			echo "Invalid option: -$OPTARG" >&2
-			usage
-			;;
+cmd_help() {
+	echo "[p ] ping" "run pingsweep.sh function"
+	echo "[h ] help" "Show this help message"
+}
+
+main() {
+	if [ $# -eq 0 ]; then
+		# Exit by default
+		cmd_help
+		exit 0
+	fi
+
+	for cmd in "$@"; do
+		case "$cmd" in
+			ping|p) cmd_ping ;;
+			help|h) cmd_help ;;
+			*)
+				echo "Unknown command: $cmd"
+				cmd_help
+				exit 1
+				;;
 		esac
-	done
-	shift $((OPTIND -1))
+   	done
 }
 
-##  Script entry point
-if [ $# -eq 0 ]; then
-	usage
-else
-	main "$@"
-fi
+main "$@"
