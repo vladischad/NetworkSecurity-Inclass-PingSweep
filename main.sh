@@ -16,7 +16,6 @@ main(){
             printf "\nExecuting a ping sweep across the local network\n"
 
             source pingsweep.sh
-            echo "\n$?"
             if [ $? -eq 0 ];then
                 printf "\nPing sweep was executed successfully and a log file has been created"
             else
